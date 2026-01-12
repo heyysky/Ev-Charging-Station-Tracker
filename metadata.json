@@ -1,0 +1,7 @@
+{
+  "name": "AI EV Tracker ",
+  "description": "A smart EV charging station tracker for Greater Noida featuring AI-powered demand prediction and real-time availability using open-source mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
